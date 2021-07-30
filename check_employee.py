@@ -1,6 +1,6 @@
 # 导入模块
 import mysql.connector
-
+# 更新
 # 打开数据库连接
 mydb = mysql.connector.connect(
   host="localhost",
